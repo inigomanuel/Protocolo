@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1537484560 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\main.cpp
+	<iostream>
+	"Cesar.h"
+	"Enigma.h"
+	"Affin.h"
+	"Administrador.h"
+
+1537483283 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\cesar.h
+	<iostream>
+	<string>
+
+1537483640 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\enigma.h
+	<string>
+	<iostream>
+
+1537483333 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\affin.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
+1537487001 c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\include\administrador.h
+	"Affin.h"
+	"Cesar.h"
+	"Enigma.h"
+	<iostream>
+	<string>
+
+1537482380 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\administrador.cpp
+	"Administrador.h"
+
+1537483170 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\affin.cpp
+	"Affin.h"
+
+1537484610 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\enigma.cpp
+	"Enigma.h"
+
+1537482697 source:c:\users\inigo\desktop\cursos\algebra abstracta\protocolo\src\cesar.cpp
+	"Cesar.h"
+
+1537570823 source:c:\users\inigo\desktop\cursos\protocolo\src\enigma.cpp
+	"Enigma.h"
+
+1537572738 c:\users\inigo\desktop\cursos\protocolo\include\enigma.h
+	<string>
+	<iostream>
+	"ops.h"
+
+1537572345 source:c:\users\inigo\desktop\cursos\protocolo\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	"Administrador.h"
+
+1537572738 c:\users\inigo\desktop\cursos\protocolo\include\cesar.h
+	"ops.h"
+
+1537572738 c:\users\inigo\desktop\cursos\protocolo\include\affin.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"ops.h"
+
+1537572738 c:\users\inigo\desktop\cursos\protocolo\include\administrador.h
+	"Affin.h"
+	"Cesar.h"
+	"Enigma.h"
+	<iostream>
+	<string>
+	<time.h>
+	<stdlib.h>
+	"ops.h"
+
+1537571895 source:c:\users\inigo\desktop\cursos\protocolo\ops.cpp
+	"..\ops.h"
+
+1537572801 c:\users\inigo\desktop\cursos\protocolo\ops.h
+	<bits/stdc++.h>
+	<string.h>
+	<NTL/ZZ.h>
+	<sstream>
+
+1537564786 source:c:\users\inigo\desktop\cursos\protocolo\src\administrador.cpp
+	"Administrador.h"
+
+1537572738 source:c:\users\inigo\desktop\cursos\protocolo\src\affin.cpp
+	"Affin.h"
+
+1537567751 source:c:\users\inigo\desktop\cursos\protocolo\src\cesar.cpp
+	"Cesar.h"
+	"../ops.h"
+
+1537572738 c:\users\inigo\desktop\cursos\protocolo\include\ops.h
+	<bits/stdc++.h>
+	<string.h>
+	<NTL/ZZ.h>
+	<sstream>
+
+1537572738 source:c:\users\inigo\desktop\cursos\protocolo\src\ops.cpp
+	"ops.h"
+
